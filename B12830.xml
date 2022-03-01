@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for abolishing of abuses, by billes of conformity.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12830</idno>
+            <idno type="STC">STC 8665</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[82]</idno>
+            <idno type="STC">ESTC S100941</idno>
+            <idno type="EEBO-CITATION">99891167</idno>
+            <idno type="PROQUEST">ocm99891167</idno>
+            <idno type="VID">185809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185809)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[82])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for abolishing of abuses, by billes of conformity.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton, and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXI. [1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Against suits and decrees ... allowing debtors to compound for less than they owe." -- STC.</note>
+                  <note>Dated at end: Westminster the one and thirtieth day of March, in the nineteenth yeere of our reigne ... .</note>
+                  <note>Arms 12; Steele notation: of  end  2)carefull  His.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Complaints (Civil procedure) --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185809:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of England's coat of arms, 1609</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head>¶ A Proclamation for aboliſhing of abuſes, by Billes of Conformity.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas diuers Billes of complaint, commonly called, Billes of</hi> Conformitie, haue of late yeeres been exhibited into his Maie<g ref="char:EOLhyphen"/>ſties Court of Chancerie, and other His Courts of equitie, by ſun<g ref="char:EOLhyphen"/>dry perſons againſt their Creditors, of purpoſe to enforce them, ei<g ref="char:EOLhyphen"/>ther to accept leſſe then their iuſt debts, and dammages, or to giue longer dayes or times of paiment and forbearance, then the ſaid Creditors were willing to doe, pretending inhability &amp; non ſol<g ref="char:EOLhyphen"/>uencie, ſometimes by reaſon of ſodaine and accidentall loſſe and dammage, ſometimes by ſuertiſhip, ſometimes by euill debtors, and ſundry other ſuggeſtions and pretences, tending to no other end or purpoſe, but to defeat or delay their iuſt and honeſt Cre<g ref="char:EOLhyphen"/>ditors of their due debts and dammages: which Billes haue beene exhibited, ſometimes by the debtors alone, &amp; ſometimes by the debtors and ſome of their Creditors by conſent, or con<g ref="char:EOLhyphen"/>niuencie betweene them: And vpon ſuch billes diuers Decrees, Orders, and proceedings haue paſſed, to the great dammage of the Common wealth, for that thereby hath enſued aſ<g ref="char:EOLhyphen"/>well the imboldening of Debtors not to pay their debts in due time, whereby many men haue beene diſappointed, and not able to keepe their credit with others, to their extreame detriment, as alſo the encouraging of wilfull Bankerupts, and deceitfull perſons, and the ſcarcity of money (being the meaſure of all bargaines and contractes betweene man and man) together with a general hinderance of trade, &amp; traffique, &amp; many other inconueniences, which by reaſon of this late and dangerous inuention of Billes and ſuites of conformity haue happened, as by due and iuſt examination (for the reformation of ſo great an euill, and for his Maieſties honour) hath beene found out, and reſolued by the houſe of Commons in this preſent Parliament: all which inconueniences by the ſaide Billes and ſuits of confor<g ref="char:EOLhyphen"/>mity haue increaſed more &amp; more, ſithence his Maieſtie (out of his Princely prouidence) hath taken a more exact and carefull courſe touching Protections, then had beene formerly accu<g ref="char:EOLhyphen"/>ſtomed; whereby many and great delaies of payment of debts, and dueties, and of other iuſt cauſes of ſuites haue beene auoided, which in former times had beene occaſioned by ſome kinds of Protections.</p>
+            <pb facs="tcp:185809:2"/>
+            <p>His Maieſtie (of his bleſſed diſpoſition for the Weale of His Subiects) being carefull to ſtoppe the current of this growing euill, vntill vpon mature deliberation, an exact and full remedy may be prouided by Parliament in that behalfe, Doth hereby ſignifie and de<g ref="char:EOLhyphen"/>clare his moſt gracious Will and pleaſure, and doth expreſly charge and command, That all and euery Iudge &amp; Iudges in the ſayd Courts of Equity, where ſuch Billes of con<g ref="char:EOLhyphen"/>formity doe depend, for ſo much of the matter in thoſe ſeuerall Billes conteyned as concer<g ref="char:EOLhyphen"/>neth ſuch conformity as aforeſaid, and for and concerning all ſuch perſons, parties to thoſe Suits, which haue not conſented thereunto, ſhall forthwith, abſolutely diſmiſſe the ſame, and that the ſaid Defendants in ſuch ſuits be not bound or preſſed to any further atten<g ref="char:EOLhyphen"/>dance in that behalfe. And that all Orders, Sentences, Decrees, Iniunctions and other reſtraints or Proces whatſoeuer grounded vpon any ſuch Bill or Suite to the preiudice, hurt or hindrance of any Creditor or Creditors (not hauing conſented as aforeſaid) and the execution of the ſame, be from henceforth fully and wholly ſuſpended, and not to be put in execution vntill order and prouiſion by ſome Act of Parliament, for a perpetuall refor<g ref="char:EOLhyphen"/>mation thereof bee had and taken in that behalfe. And that no Bill or Suite of the effect or nature aforeſaid be hereafter receiued, accepted or allowed in the ſayd Court of Chancery or other Court of Equity, vntill ſome ſuch order as aforeſaid bee taken in Parliament. And that all and euery perſon and perſons now being in priſon, or reſtrayned of liberty, or ſtan<g ref="char:EOLhyphen"/>ding vpon Bond, Bayle or Mainpriſe, by or by reaſon of any ſuch Order, Sentence, Decree, Iniunction or other reſtraint, (and for no other cauſe) vpon any Bill or Suit of the effect or nature aforeſaid in any of the ſaid Courts of Equity whatſoeuer, or by reaſon of any procee<g ref="char:EOLhyphen"/>ding thereupon, bee forthwith by the ſayd Iudge and Iudges of the ſayd Courts of Equity, ſet at liberty and freed from his and their impriſonment or reſtraint, and be diſchar<g ref="char:EOLhyphen"/>ged of his and their Bonds, Recognizances, Bayle or Mainpriſe for appearance, without moleſtation, vexation or trouble for or by reaſon of any ſuch Order, Sentence, Decree, Iniunction, Reſtraint, Bond, Recognizance, Bayle or Mainpriſe vntill ſuch further or<g ref="char:EOLhyphen"/>der be taken in Parliament as aforeſayd. And therefore His Maieſty doth authoriſe and require aſwell the Lord Chauncellor of England, as all other His Maieſties Iudges and Iuſtices, &amp; other perſons whatſoeuer, hauing any place of Iudicature, &amp; all and euery His Officers, Miniſters and Subiects that now bee or hereafter ſhalbe, to ſee and cauſe this His Maieſties pleaſure duely with all conuenient expedition to be put in execution.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Palace of Weſtminſter <date>the one and thirtieth day of March, in the nineteenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by BONHAM NORTON, and IOHN BILL, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
